@@ -8,6 +8,10 @@
     "react-scripts": "3.4.1"
   },
   "dependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.6.1",
+    "@types/react": "^17.0.7",
+    "@types/react-dom": "^17.0.5",
     "autoprefixer-stylus": "0.14.0",
     "firebase": "^7.6.0",
     "prop-types": "^15.6.0",
@@ -17,7 +21,8 @@
     "react-router-dom": "^4.2.2",
     "react-transition-group": "^2.2.1",
     "serve": "^10.1.2",
-    "stylus": "0.54.5"
+    "stylus": "0.54.5",
+    "typescript": "^4.2.4"
   },
   "scripts": {
     "dev": "react-scripts start",
